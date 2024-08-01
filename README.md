@@ -28,3 +28,5 @@ This Streamlit webapp enables user to predict total runs between teams using cur
 - total - total score (target variable)
 
 **Web app**:
+
+![](https://github.com/Shantanu221/IPL_Score-Predictor/blob/main/streamlit-ipl_score_predict.gif)
