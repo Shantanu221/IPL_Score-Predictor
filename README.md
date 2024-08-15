@@ -11,7 +11,7 @@ This Streamlit webapp enables user to predict total runs between teams using cur
 
 **Dataset used**: ipl_data.csv
 
-- mid - match i
+- mid - match id
 - date - when matches are played
 - venue - place where matches aew played
 - bat_team - batting team
